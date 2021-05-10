@@ -1,0 +1,4 @@
+bazel-*
+mutagen*
+.bazelrc.local
+.bazelrc.internal
